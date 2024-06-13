@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print('"Try programiz.pro')
+print('"Programming is like building a multilingual puzzle')
