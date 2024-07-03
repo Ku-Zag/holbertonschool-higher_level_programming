@@ -1,0 +1,1 @@
+hello sql banking, greetings
